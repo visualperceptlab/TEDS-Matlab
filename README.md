@@ -1,2 +1,2 @@
-# TEDS-matlab
+# TEDS-Matlab
 The official implementation for the TEDS tracker, which is based on discriminative correlation filters.
